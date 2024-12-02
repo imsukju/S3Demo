@@ -1,7 +1,9 @@
-# S3demo 프로젝트 README.md
+
+## 민감한 정보등 보안문제로 인하여 YML 파일은 직접 만드셔야합니다.
+
 
 ## 개요
-
+[S3란?](https://github.com/imsukju/MyStudyNote/blob/main/Cloud%20and%20Messaging%20Systems/AWS/AWS%20S3.md)
 **S3demo**는 AWS S3를 활용하여 파일 업로드 및 다운로드 기능을 구현한 Spring Boot 기반의 애플리케이션입니다. 이 프로젝트는 AWS SDK를 활용하여 S3와의 연동을 처리하며, RESTful API를 통해 파일 관리 기능을 제공합니다.
 
 ---
